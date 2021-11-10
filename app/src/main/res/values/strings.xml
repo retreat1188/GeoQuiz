@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="question_text">Gameboy Advanced SP was derived from the Gameboy Color.</string>
+    <string name="question_oceans">There is a fine difference between chemistry and biology.</string>
+    <string name="question_mideast">Chocolate and caramel are made from the same ingredients.</string>
+    <string name="question_africa">Monument Hall was constructed in Washington.</string>
+    <string name="question_americas">Rank of Captain is below the rank of flag officer for the Navy.</string>
+    <string name="question_asia">Elon Musk is currently the wealthiest person by net worth.</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="judgment_toast">Cheating is wrong.</string>
+    <string name="next_button">Next</string>
+    <string name="previous_button">Previous</string>
+</resources>
